@@ -1,4 +1,4 @@
-# Optus Coding Challenge - PRogress Bars
+# Optus Coding Challenge - Progress Bars
 
 Assessment completed by - "Neil" Supratik Baksi
 
